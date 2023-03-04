@@ -1,4 +1,5 @@
-My experience and skills will bring delight to you. I have valuable and practical experience in Hybrid Developing. While working on a project, I focus on the clients' needs and requirements, and support some good idea. My goal is building good and long term relationship by offering what you need skills: React Native, Ionic, Flutter
+My experience and skills will bring delight to you. I have valuable and practical experience in SPA and Hybrid Developing. While working on a project, I focus on the clients' needs and requirements, and support some good idea. My goal is building good and long term relationship by offering what you need skills: React.js, Vue.js, Angular.js, Svelte.js, React Native, Ionic, Flutter, and web3 technology.
+
 
 <!--
 **hugobriac66/hugobriac66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
